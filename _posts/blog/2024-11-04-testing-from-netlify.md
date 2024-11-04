@@ -5,6 +5,7 @@ author: Testing from Netlify
 date: 2024-11-04T12:54:00.000Z
 tags:
   - post
+  - featured
 image: /assets/blog/victor-freitas-houjyx2k5da-unsplash.jpg
 imageAlt: Testing from Netlify
 ---
